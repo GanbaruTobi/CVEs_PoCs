@@ -1,4 +1,4 @@
-# PoCs to won CVEs
+# PoCs to own CVEs
 
 ## CVE-2021-27568 - json-smart DoS
 
